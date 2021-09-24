@@ -1,10 +1,10 @@
-const likes = (name) => {
+const likes = name => {
     return {
-        0: `no one likes this`,
-        1: `${name[0]} likes this`,
-        2: `${name[0]} and ${name[1]} like this`,
-        3: `${name[0]}, ${name[1]} and ${name[2]} like this`,
-        4: `${name[0]}, ${name[1]} and ${name.length - 2} others like this`
+       0: `no one likes this`,
+       1: `${name[0]} likes this`,
+       2: `${name[0]} and ${name[1]} like this`,
+       3: `${name[0]}, ${name[1]} and ${name[2]} like this`,
+       4: `${name[0]}, ${name[1]} and 2 others like this`
     } [Math.min(4, name.length)]
 }
 
