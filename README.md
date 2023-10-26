@@ -1,6 +1,8 @@
 # Codewars Challenge Solutions
 
-![Codewars Logo](imgs/codewars-logo-icon.png)
+<div align="center">
+  <img src="imgs/codewars-logo-icon.png" alt="Codewars Logo" />
+</div>
 
 This repository contains my solutions to various Codewars challenges. Codewars is a platform that offers coding challenges (kata) ranging from beginner to advanced levels. These challenges cover a wide range of programming topics and provide an excellent way to practice and improve your coding skills.
 
