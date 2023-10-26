@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imgs/codewars-logo-icon.png" alt="Codewars Logo" width="300" height="300" />
+  <img src="imgs/codewars-logo-icon.png" alt="Codewars Logo" width="200" height="200" />
 </div>
 
 # Codewars Challenge Solutions
